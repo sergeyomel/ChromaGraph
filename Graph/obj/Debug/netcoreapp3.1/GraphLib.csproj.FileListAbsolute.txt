@@ -1,0 +1,10 @@
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\bin\Debug\netcoreapp3.1\GraphLib.deps.json
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\bin\Debug\netcoreapp3.1\GraphLib.dll
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\bin\Debug\netcoreapp3.1\GraphLib.pdb
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\obj\Debug\netcoreapp3.1\GraphLib.AssemblyInfoInputs.cache
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\obj\Debug\netcoreapp3.1\GraphLib.AssemblyInfo.cs
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\obj\Debug\netcoreapp3.1\GraphLib.csproj.CoreCompileInputs.cache
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\obj\Debug\netcoreapp3.1\GraphLib.dll
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\obj\Debug\netcoreapp3.1\GraphLib.pdb
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\obj\Debug\netcoreapp3.1\GraphLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myacc\OneDrive\Рабочий стол\ChromaGraph\Graph\obj\Debug\netcoreapp3.1\GraphLib.csproj.AssemblyReference.cache
